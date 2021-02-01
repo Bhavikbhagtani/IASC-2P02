@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Digital Scholarship Portfolio: Bhavik Bhagtani
 
-You can use the [editor on GitHub](https://github.com/Bhavikbhagtani/IASC-2P02/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my online portfolio for IASC 2P02!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Interactive Study Guide
 
-### Markdown
+Explore my interactive study guide [here].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Interactive Genealogy
 
-```markdown
-Syntax highlighted code block
+Explore my interactive genealogy [here].
 
-# Header 1
-## Header 2
-### Header 3
+# Speculative Fiction
 
-- Bulleted
-- List
+## Title of your story here
 
-1. Numbered
-2. List
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor vel purus
+sed condimentum. Duis quis nisl mattis, feugiat quam in, maximus eros. Vestibulum
+ligula velit, maximus ac auctor eu, accumsan id ipsum. Duis eu velit sit amet ipsum
+finibus eleifend. Praesent gravida felis a orci sollicitudin, a scelerisque nulla tempus.
+Vestibulum rhoncus nec ante eget cursus. Mauris elementum vitae purus id gravida.
+Nam a sollicitudin dolor.
 
-**Bold** and _Italic_ and `Code` text
+## Micro Essay
 
-[Link](url) and ![Image](src)
-```
+In sagittis erat urna, at suscipit odio maximus congue. Sed a quam sed dolor dapibus
+efficitur id gravida augue. Mauris maximus faucibus quam vitae gravida. Mauris tris-
+tique odio sed odio egestas, a tristique tellus elementum. In et tortor dignissim, conse-
+quat ligula sagittis, cursus lorem. Vestibulum vitae ipsum at libero facilisis faucibus
+rhoncus nec tellus. Vestibulum dapibus pulvinar iaculis. Vestibulum ante ipsum primis
+in faucibus orci luctus et ultrices posuere cubilia curae;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Interactive Timeline
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bhavikbhagtani/IASC-2P02/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1poMT0aBGhJy9uFPL0Bc8pBun1no2t56wKKBnBpWqPAA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
