@@ -2,13 +2,16 @@
 
 Welcome to my online portfolio for IASC 2P02!
 
+
 ## Interactive Study Guide
 
 Explore my interactive study guide [here](2P02_InteractiveStudyGuide_Team_6.html).
 
+
 ## Interactive Genealogy
 
 Explore my interactive genealogy [here].
+
 
 # Speculative Fiction
 
@@ -44,11 +47,11 @@ Juan took out his earphones, connected them to his phone and drove to the electr
 
 Juan woke up the next day and made a decision to not have any distractions while driving as it might get his badly injured one day. He started making his own music in his room and began his journey as a music producer.
 
-The End
 
 ## Micro Essay
 
-The above is a speculative fiction set in an imaginary version of 2015. In this imaginative version of 2015, a piece of technology that is used in everyday life by people has never been invented. The main character of this story is tired of having wires to listen to music which he is most passionate about as Bluetooth is yet to be discovered in this version. The boy runs into problems because he has to deal with wires and wonders if only there was a way to cut the middleman. The key moment is the oldness of the new media which is Bluetooth is a big part of our lives. Bluetooth has been around for quite a while now and is being used in a lot of different new media such as connecting wirelessly to our car and earphones to accept calls and listen to music. Bluetooth is considered as old media, but this old media is being rediscovered into new media via other latest technology. If Bluetooth was not a thing in this generation then people would not be able to share media and connect wirelessly to any other device with ease. Jussi Parikka mentioned that “They are continuously remediated, resurfacing, finding new uses, contexts, adaptations.”. The story engages with this quote as Bluetooth is always being remediated and resurfaced through the latest headphones, smartphones, smart cars, etc. and will probably continue to remediate until another type of wireless connection is discovered. Bluetooth has slowly changed our lives since the beginning and has made it a lot easier. “New media might be here and slowly changing our user habits, but old media never left us.”, Parikka says. This quote tells us that even though Bluetooth is old media it still has not left us and changes our user habits as it is remediated into new media. The story depicts these concepts and engages us into critical and abstract thinking by showing us the connection between new and old media.
+The above is a speculative fiction set in an imaginary version of 2015. In this imaginative version, a piece of technology that is used in everyday life by people has never been invented. The main character of this story is tired of having wires to listen to music which he is most passionate about as Bluetooth is yet to be discovered in this version. The boy runs into problems because he has to deal with wires and wonders if only there was a way to cut the middleman. The key moment is the oldness of the new media which is Bluetooth is a big part of our lives. Bluetooth has been around for quite a while now and is being used in a lot of different new media such as connecting wirelessly to our car and earphones to accept calls and listen to music. Bluetooth is considered as old media, but this old media is being rediscovered into new media via other latest technology. If Bluetooth was not a thing in this generation then people would not be able to share media and connect wirelessly to any other device with ease. Jussi Parikka mentioned that “They are continuously remediated, resurfacing, finding new uses, contexts, adaptations.”. The story engages with this quote as Bluetooth is always being remediated and resurfaced through the latest headphones, smartphones, smart cars, etc. and will probably continue to remediate until another type of wireless connection is discovered. Bluetooth has slowly changed our lives since the beginning and has made it a lot easier. “New media might be here and slowly changing our user habits, but old media never left us.”, Parikka says. This quote tells us that even though Bluetooth is old media it still has not left us and changes our user habits as it is remediated into new media. The story depicts these concepts and engages us into critical and abstract thinking by showing us the connection between new and old media.
 
 # Interactive Timeline
 
+Work in Progress
