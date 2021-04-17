@@ -54,4 +54,4 @@ The above is a speculative fiction set in an imaginary version of 2015. In this 
 
 # Interactive Timeline
 
-Work in Progress
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wLinlhh5CutfkdaI7s8hnt04-i3zJTq-w6wSdyPXS6c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
