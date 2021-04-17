@@ -45,7 +45,7 @@ Juan took out his earphones, connected them to his phone and drove to the electr
 
 “Ugh, wires, everywhere! If only I could cut the wires and still listen to music.”, he said to himself. 
 
-Juan woke up the next day and made a decision to not have any distractions while driving as it might get his badly injured one day. He started making his own music in his room and began his journey as a music producer.
+Juan woke up the next day and made a decision to not have any distractions while driving as it might get him badly injured one day. He started making his own music in his room and began his journey as a music producer.
 
 
 ## Micro Essay
